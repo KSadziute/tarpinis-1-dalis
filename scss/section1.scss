@@ -1,0 +1,33 @@
+.section1{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    background: url(../images/bg-masthead.jpg);
+    background-position: center;
+    text-align: center;
+   
+    h2{
+     color: white;
+     font-size: 2.5em;
+    }
+   
+    input{
+     padding: 5px;
+     width: 300px;
+     margin-top: 30px;
+     border: none;
+     border-radius: 3px;
+    }
+   
+    button{
+     width: 85px;
+     height: 27px;
+     background: #248eff;
+     border: none;
+     color: white;
+     border-radius: 4px;
+    }
+   
+   }

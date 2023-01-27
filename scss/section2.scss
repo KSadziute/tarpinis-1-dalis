@@ -1,0 +1,29 @@
+.section2{
+    height: 250px;
+    display: flex;
+   justify-content: space-between;
+   gap: 60px;
+    background: #f0f1f3;
+    padding: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+  
+    .container2{
+      text-align: center;
+  
+      i{
+        color: #248eff;;
+        margin-bottom: 20px;
+        font-size: 3em;
+      }
+  
+      h5{
+        font-size: 1.1em;
+        margin-bottom: 10px;
+      }
+  
+      p{
+      color: grey;
+      }
+    }
+  }
